@@ -2,6 +2,7 @@
 <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="300">
 </h1><br>
 
+¡Estoy feliz de hacer mi primera edición!
 
 [![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](
 https://numfocus.org)
@@ -48,7 +49,7 @@ commitment to creating an open, inclusive, and positive community. Please read t
 [NumPy Code of Conduct](https://numpy.org/code-of-conduct/) for guidance on how to interact
 with others in a way that makes our community thrive.
 
-Call for Contributions
+l for Contributions
 ----------------------
 
 The NumPy project welcomes your expertise and enthusiasm!
